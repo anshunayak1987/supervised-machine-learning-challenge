@@ -2,6 +2,20 @@
 
 ![account-assets-audit-bank-bookkeeping-finance-concept](https://user-images.githubusercontent.com/111711194/213682867-0107fe87-7312-4f0c-b936-b00a428e0d00.jpg)
 
+ 
+**Background**
+
+
+
+Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market.
+
+You will be using this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
+
+
+
+
+
+
 **Instructions**
 
 Retrieve the data
